@@ -1,3 +1,0 @@
-#
-# Example file for HelloWorld
-#
